@@ -29,4 +29,8 @@ docker-compose.yml
 
 # OS
 .DS_Store
-Thumbs.db 
+Thumbs.db
+
+# Kiro CLI (não faz parte da aplicação)
+kirocli
+kirocli.zip
